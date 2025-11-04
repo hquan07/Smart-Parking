@@ -1,0 +1,8 @@
+Video: 7252
+FPS(input): 29.97
+FPS(output): 30.00
+Frames: 1562
+Frames có phát hiện: 1293 (82.78%)
+Thời gian chạy: 292.55s
+Output video: /content/seg_outputs/7252_detect_overlay.avi
+CSV: /content/seg_outputs/7252_seg.csv
